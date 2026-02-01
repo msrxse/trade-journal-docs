@@ -2,6 +2,10 @@
 
 A cryptocurrency trading journal that uses AI to extract insights, surface behavioral patterns, and improve decision-making — not auto-trading.
 
+## Screenshots
+
+![Dashboard](images/dashboard.png)
+
 ## MVP
 
 A trading journal that captures crypto trades, visualizes performance with D3, and generates AI-assisted daily insights based on real metrics.
